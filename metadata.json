@@ -1,0 +1,6 @@
+{
+  "name": "Scribd Content Foundations - Real-Time AI Ingestion Platform",
+  "description": "Showcase platform for Senior Engineering Manager, Backend (Content Foundations) at Scribd and Speechify integration: real-time VLM parsing, semantic chunking, trust & safety sandboxing, RAG agent grounding, and distributed platform architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
